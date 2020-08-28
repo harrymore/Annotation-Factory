@@ -27,8 +27,8 @@ example = {
     'region': {
         'left': 0.288039029,
         'top': 0.411838,
-        'width': 0.291451037,
-        'height': 0.4237842
+        'width': 0.291451037, # attention: this value should be right 
+        'height': 0.4237842   # attention: this value should be bottom
     }
 }
 
